@@ -15,7 +15,6 @@ This project is a login form built with React, SCSS, and the experimental React 
 ## Built on:
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white), ![React Hooks](https://img.shields.io/badge/-React%20Hooks-blue?logo=react&logoColor=white), ![SCSS](https://img.shields.io/badge/SCSS-%23CD6799.svg?&style=flat&logo=sass&logoColor=white)
 
-***
 
 ## How to run the application:
 
