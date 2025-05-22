@@ -1,5 +1,5 @@
 # Login Form (React + Vite)
-***
+
 ## Overview of Login Form
 
 This project is a login form built with React, SCSS, and the experimental React API — useActionState, which is part of React Server Actions (currently in development in React).
