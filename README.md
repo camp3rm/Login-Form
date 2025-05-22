@@ -1,12 +1,34 @@
-# React + Vite
+# Login Form (React + Vite)
+***
+## Overview of Login Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a login form built with React, SCSS, and the experimental React API — useActionState, which is part of React Server Actions (currently in development in React).
 
-Currently, two official plugins are available:
+** What does this project demonstrate? **
+✅ Usage of useActionState to handle form submission without manually managing useState or useReducer.
+✅ Implementation of simple validation logic (for name, email, and password).
+✅ User feedback through success or error messages after form submission.
+✅ Automatic focus on the name input field when the component mounts.
+✅ A responsive UI with a clean design, styled using SCSS.
+✅ Inclusion of a React logo for visual identity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Built on:
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white), ![React Hooks](https://img.shields.io/badge/-React%20Hooks-blue?logo=react&logoColor=white), ![SCSS](https://img.shields.io/badge/SCSS-%23CD6799.svg?&style=flat&logo=sass&logoColor=white)
 
-## Expanding the ESLint configuration
+***
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to run the application:
+
+ 1. Clone the repository.
+    ```bash
+    Source `https://github.com/camp3rm/Login-Form`
+    ```
+ 2. Instalation of node_modules( yarn ):
+    ```
+    yarn install
+    ```
+ 3. Run:
+    ```
+    yarn dev
+    ```
+***
